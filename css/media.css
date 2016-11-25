@@ -1,0 +1,405 @@
+// @media screen and (max-width: 768px){
+	
+// 	.header-nav .navigation ul li a{
+// 		padding: 9px 15px;	
+// 	}
+
+// 	.header-nav .navigation ul{
+// 		padding-left: 30px;
+// 	}
+
+// 	.section2 .desc h2{
+// 		font-size: 2em;
+// 	}
+
+// 	.section2 .desc p{
+// 		font-size: 1.8em;
+// 	}
+	
+// 	.section3{
+// 		padding-top: 50px;
+// 	}
+// 	.section3 form {
+// 		display: none;
+// 	}
+
+// 	.section3 .plus .desc .second-item{
+// 		margin-bottom: 50px;
+// 	}
+
+// 	.section4{
+// 		padding-top: 0px;
+// 		margin-bottom: 30px;
+// 	}
+// 	.section4 .why-itu{
+// 		padding-top: 10px;
+// 		padding-bottom: 10px;
+// 	}
+
+// 	.section5 h3:before {
+//     left: 7%;
+//     width: 100px;
+// 	}
+
+// 	.section5 h3:after {
+//     right: 7%;
+//     width: 100px;
+// 	}
+
+// 	.section6 h3:before {
+//     left: 16%;
+//     width: 100px;
+// 	}
+	
+// 	.section6 h3:after {
+//     right: 16%;
+//     width: 100px;
+// 	}
+
+// 	.section6 .price ul li:before{
+// 		left: -7%;
+// 	}
+	
+// 	.section6 .viza{
+// 		margin-bottom: 20px;
+// 	}
+
+// 	.section7 h3:before{
+// 		left: 8%;
+//     width: 100px;
+// 	}
+
+// 	.section7 h3:after{
+// 		right: 8%;
+//     width: 100px;
+// 	}
+
+// 	.media-block{
+// 		text-align: center;
+// 	}
+	
+// 	.media-center{
+// 		text-align: center;
+// 	}
+
+// 	.section8 h3:before{
+// 		display: none;
+// 	}
+
+// 	.section8 .fors{
+// 		margin-top: 25px;
+// 	}
+
+// 	.section8 .fors{
+// 		text-align: left;
+// 	}
+
+// 	.section8 .fors img{
+// 		text-align: center;
+// 	}
+	
+// 	.section9 form{
+// 		margin-left: 0px;
+// 	}
+
+// 	.section9 .name, .section9 .tel, .section9 textarea{
+// 		float: none;
+// 		margin-left: 35px;
+// 	}
+
+// 	.section9 textarea{
+// 		margin-bottom: 20px;
+// 	}
+
+// 	.section9 .button{
+// 		display: block;
+// 		margin: 0 auto;
+// 	}
+
+// 	.section10 h3:after {
+//     right: 13%;
+//     width: 100px;
+// 	}
+	
+// 	.section10 h3:before {
+//     left: 13%;
+//     width: 100px;
+// 	}
+	
+// 	.section10 .wrap-item button{
+// 		margin-left: 105px;
+// 	}
+	
+// 	.section11 form{
+// 		display: none;
+// 	}
+	
+// 	.section11{
+// 		padding-top: 50px;
+// 		height: 495px;
+// 	}
+
+// 	.section11 .services-desc p:first-child{
+// 		padding-top: 287px;
+// 	}
+	
+// 	.section12 h3:before{
+// 		width: 100px;
+// 		right: 5%;
+// 	}
+	
+// 	.section12 h3:after{
+// 		width: 100px;
+// 		left: 5%;
+// 	}
+
+// 	.section13 h3:before{
+// 		right: 22%;
+// 		width: 100px;
+// 	}
+
+// 	.section13 h3:after{
+// 		left: 22%;
+// 		width: 100px;
+// 	}
+
+// 	.section13 .phone p, .section13 .adress-desc{
+// 		text-align: center;
+// 	}
+
+// 	.section13 .phone{
+// 		margin-bottom: 20px;
+// 	}
+
+// 	.section13 .phone p span{
+// 		padding-right: 98px;
+// 	}
+
+// 	.section13 .phone p span, .section13 .adress p{
+// 		text-align: center;
+// 	}
+
+// 	.section13 .adress-desc p:last-child{
+// 		padding-left: 0px;
+// 		text-align: left;
+// 	}
+
+// 	.section13 .adress p:before{
+// 		left: 109px;
+// 	}
+
+// 	.section13 .email span{
+// 		text-align: left;
+// 		padding-left: 188px;
+//     padding-right: 147px;
+// 	}
+	
+// 	.section13 .email span:before{
+// 		left: 124px;
+// 	}
+
+// }
+
+// @media screen and (max-width: 480px){
+
+// 	.header-nav .navigation ul li a{
+// 		padding: 9px 15px;	
+// 	}
+
+// 	.header-nav .navigation ul{
+// 		padding-left: 30px;
+// 	}
+
+// 	.section2 .desc h2{
+// 		font-size: 2em;
+// 	}
+
+// 	.section2 .desc p{
+// 		font-size: 1.8em;
+// 	}
+	
+// 	.section3{
+// 		padding-top: 50px;
+// 	}
+// 	.section3 form {
+// 		display: none;
+// 	}
+
+// 	.section3 .plus .desc .second-item{
+// 		margin-bottom: 50px;
+// 	}
+
+// 	.section4{
+// 		padding-top: 0px;
+// 		margin-bottom: 30px;
+// 	}
+// 	.section4 .why-itu{
+// 		padding-top: 10px;
+// 		padding-bottom: 10px;
+// 	}
+
+// 	.section5 h3:before {
+//     left: 7%;
+//     width: 100px;
+// 	}
+
+// 	.section5 h3:after {
+//     right: 7%;
+//     width: 100px;
+// 	}
+
+// 	.section6 h3:before {
+//     left: 16%;
+//     width: 100px;
+// 	}
+	
+// 	.section6 h3:after {
+//     right: 16%;
+//     width: 100px;
+// 	}
+
+// 	.section6 .price ul li:before{
+// 		left: -7%;
+// 	}
+	
+// 	.section6 .viza{
+// 		margin-bottom: 20px;
+// 	}
+
+// 	.section7 h3:before{
+// 		left: 8%;
+//     width: 100px;
+// 	}
+
+// 	.section7 h3:after{
+// 		right: 8%;
+//     width: 100px;
+// 	}
+
+// 	.media-block{
+// 		text-align: center;
+// 	}
+	
+// 	.media-center{
+// 		text-align: center;
+// 	}
+
+// 	.section8 h3:before{
+// 		display: none;
+// 	}
+
+// 	.section8 .fors{
+// 		margin-top: 25px;
+// 	}
+
+// 	.section8 .fors{
+// 		text-align: left;
+// 	}
+
+// 	.section8 .fors img{
+// 		text-align: center;
+// 	}
+	
+// 	.section9 form{
+// 		margin-left: 0px;
+// 	}
+
+// 	.section9 .name, .section9 .tel, .section9 textarea{
+// 		float: none;
+// 		margin-left: 35px;
+// 	}
+
+// 	.section9 textarea{
+// 		margin-bottom: 20px;
+// 	}
+
+// 	.section9 .button{
+// 		display: block;
+// 		margin: 0 auto;
+// 	}
+
+// 	.section10 h3:after {
+//     right: 13%;
+//     width: 100px;
+// 	}
+	
+// 	.section10 h3:before {
+//     left: 13%;
+//     width: 100px;
+// 	}
+	
+// 	.section10 .wrap-item button{
+// 		margin-left: 105px;
+// 	}
+	
+// 	.section11 form{
+// 		display: none;
+// 	}
+	
+// 	.section11{
+// 		padding-top: 50px;
+// 		height: 495px;
+// 	}
+
+// 	.section11 .services-desc p:first-child{
+// 		padding-top: 287px;
+// 	}
+	
+// 	.section12 h3:before{
+// 		width: 100px;
+// 		right: 5%;
+// 	}
+	
+// 	.section12 h3:after{
+// 		width: 100px;
+// 		left: 5%;
+// 	}
+
+// 	.section13 h3:before{
+// 		right: 22%;
+// 		width: 100px;
+// 	}
+
+// 	.section13 h3:after{
+// 		left: 22%;
+// 		width: 100px;
+// 	}
+
+// 	.section13 .phone p, .section13 .adress-desc{
+// 		text-align: center;
+// 	}
+
+// 	.section13 .phone{
+// 		margin-bottom: 20px;
+// 	}
+
+// 	.section13 .phone p span{
+// 		padding-right: 98px;
+// 	}
+
+// 	.section13 .phone p span, .section13 .adress p{
+// 		text-align: center;
+// 	}
+
+// 	.section13 .adress-desc p:last-child{
+// 		padding-left: 0px;
+// 		text-align: left;
+// 	}
+
+// 	.section13 .adress p:before{
+// 		left: 109px;
+// 	}
+
+// 	.section13 .email span{
+// 		text-align: left;
+// 		padding-left: 188px;
+//     padding-right: 147px;
+// 	}
+	
+// 	.section13 .email span:before{
+// 		left: 124px;
+// 	}
+
+
+
+// }
